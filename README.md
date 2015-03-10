@@ -40,5 +40,15 @@ List of awesome valuable articles and resources for iOS Developement for Develop
 
 - [AppCoda](http://www.appcoda.com)
   - Created by a developer in Hong Kong, who recently quit his job to dedicate full time on this project. Includes both online and pay to download articles, focused on new API and frameworks for implementation.
-  
+
+- [iOS Dev Weekly](http://iosdevweekly.com)
+  - Weekly updating since 2011. An iOS newsletter site with more than 20,000 subscribers. Help revealing valuable iOS articles from the web. Also provides Safari push notifications.
+
+- [iOS Goodies](http://ios-goodies.com)
+  - Relatively new iOS newsletter site. Content is distributed in Articles, Controls/Tools, Business, UI, and different media types, etc.
+
+- [iOS Developer Tips](http://iosdevelopertips.com)
+  - One of the first iOS daily resource feed since 2008. Contains a very wide landscape of articles from development tips, UX, rumours, personal experiences and stories, etc.
+
+
 
