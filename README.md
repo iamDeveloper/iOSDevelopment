@@ -3,7 +3,11 @@
 
 List of awesome valuable articles and resources for iOS Developement for Developers.
 
-### Websites
+### Websites; Articles/Blogs/Courses
+
+- [Stanford iTunes U](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+  - The famous Stanford course on iTunes U is free and highly structured. It’s comprehensive, and fast-paced. It’s not great for programming beginners, but it might be good for the OP who has prior web-based programming experience.
+
 
 - [objc.io](http://www.objc.io)
   - A monthly updating issue contributing from world-class iOS engineers. Expecting high quality and in-depth articles on certain topic, they also provides a subscription-based newsstand iPad app.
