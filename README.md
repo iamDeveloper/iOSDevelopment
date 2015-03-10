@@ -1,10 +1,10 @@
 # iOSDevelopment
-List of awesome valuable articles and resources for iOS Developement for Developers.
 ===============
 
-### Websites
+List of awesome valuable articles and resources for iOS Developement for Developers.
+------------
 
-**Content Blogs**
+### Websites
 
 - [objc.io](http://www.objc.io)
   - A monthly updating issue contributing from world-class iOS engineers. Expecting high quality and in-depth articles on certain topic, they also provides a subscription-based newsstand iPad app.
