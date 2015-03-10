@@ -1,8 +1,7 @@
 # iOSDevelopment
-===============
+---------------
 
 List of awesome valuable articles and resources for iOS Developement for Developers.
-------------
 
 ### Websites
 
