@@ -3,7 +3,7 @@
 
 #### List of awesome valuable articles and resources for iOS Developement for Developers.
 
-##### Websites; Articles/Blogs/Courses
+##### Websites; Articles/Blogs/Courses/Tutorials
 
 
 - [Stanford iTunes U](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
@@ -55,5 +55,23 @@
 - [iOS Developer Tips](http://iosdevelopertips.com)
   - One of the first iOS daily resource feed since 2008. Contains a very wide landscape of articles from development tips, UX, rumours, personal experiences and stories, etc.
 
+Added more
 
+- [Your First Mac App: Getting Started](https://developer.apple.com/library/mac/referencelibrary/GettingStarted/RoadMapOSX/books/RM_YourFirstApp_Mac/Articles/GettingStarted.html)
 
+- [Start Developing iOS Apps Today: Setup](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/)
+
+- [Development Videos - Apple Developer](https://developer.apple.com/videos/)
+
+- [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+
+- [Learn Objective-C on the Mac: For OS X and iOS](http://www.amazon.com/Learn-Objective-C-Mac-OS-iOS/dp/1430241888/ref=sr_1_3?s=books&ie=UTF8&qid=1400329922&sr=1-3&keywords=Objective+C+on+mAc)
+
+- [Xcode Tutorial - Xcode Tutorial for Beginners - Udemy](https://www.udemy.com/ios-development-with-xcode-a-project-based-approach/#/)
+
+- [Objective C Tutorial - Learn iOS Programming - Udemy](https://www.udemy.com/objective-c-programming-learn-ios-programming-in-depth/#/)
+
+- [Learn to Make iPhone Apps with Objective C for iOS7](https://www.udemy.com/how-to-program-ios7-iphone-apps-from-scratch-in-objective-c/#/)
+
+- [Swift Resources - Apple Developer](https://developer.apple.com/swift/resources/
+)
